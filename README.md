@@ -1,6 +1,6 @@
-## Hey, I'm Loris Milloni
+## Hey, I'm Loris Milloni :alien:
 
-### Welcome to my humble abode in the Digital World!
+### Welcome to my ~humilde residência~ humble abode in the Digital World!
 
 [![Linkedin Badge](https://img.shields.io/badge/-lorismilloni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorismilloni)](https://www.linkedin.com/in/lorismilloni) [![Protonmail](https://img.shields.io/badge/lorismilloni@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:lorismilloni@proton.me)](mailto:lorismilloni@proton.me)
 
