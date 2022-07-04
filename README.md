@@ -24,7 +24,7 @@
 }
 ```
 ### Programming languages
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width='35'/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' width='35' />
 ### Technologies I use
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg' width='35'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width='35'/>
 ### What I'm currently learning
