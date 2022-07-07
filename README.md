@@ -30,7 +30,7 @@
 ### What I'm currently learning
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg' width='35'/> 
 ### What I'll learn next
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='35'/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width='40'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='35'/>
 #### Current works
 * I'm currently working on building :bricks: **web sites using JavaScript and React** and working up on polishing my skills 🌱 in **Refactoring**.
 * Getting started with Node.js!
