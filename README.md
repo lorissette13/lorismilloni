@@ -5,15 +5,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-lorismilloni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorismilloni)](https://www.linkedin.com/in/lorismilloni) [![Protonmail](https://img.shields.io/badge/lorismilloni@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:lorismilloni@proton.me)](mailto:lorismilloni@proton.me)
 
-<div style="text-align: left">
+<!-- <div style="text-align: left">
   <p>There are 10 types of people in the world. Those who get Binary and those who don't...</p>
   <p>But let the binary perspective just for numbers. :rainbow_flag:</p>
-</div>
+</div>-->
 
 ### Who am I?
  ```javascript
  const loris = {
-  pronouns: "she" | "her" | "they" | "them",
+  pronouns: "she" | "her",
   currentEducation: "Trybe",
   city: "Curitiba, Brazil",
   ambitions: {
