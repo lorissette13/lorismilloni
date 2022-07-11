@@ -17,8 +17,8 @@
   currentEducation: "Trybe",
   city: "Curitiba, Brazil",
   ambitions: {
-                career: ["get more women into coding", "learn german"],
-                personal: ["time to play videogames again", "travel to taking photos"]
+                career: ["to find a job where I can always learn new things", "get more women into coding"],
+                personal: ["learn german", "time to play videogames again", "travel to taking photos"]
               },
   hobbies: ["reading", "watch movies", "writing", "analogue photography", "swimming"],
 }
