@@ -1,5 +1,5 @@
 ## Hey, I'm Loris Milloni :alien:
-## I'm a front-end web developer
+## I'm a baby web developer
 
 ### Welcome to my ~humilde residência~ humble abode in the digital world!
 
