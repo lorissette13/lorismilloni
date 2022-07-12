@@ -43,3 +43,28 @@
 * I have used Linux as main system my whole life, and I look for an open source future
 * Soon as I finish Trybe in october, I'll dive deep into Ruby, the language designed for programmer happiness, said The Odin Project
 * And now that I know what I'm doing I want to try Python again
+
+---
+
+#### List of what I developed at Trybe:
+Links to repositories.
+> Fundamentals
+- [Lessons Learned](https://github.com/lorismilloni/study-project-lessons-learned) First web page built with HTML and CSS.
+- [Playground Functions](https://github.com/lorismilloni/study-project-playground-functions) First JavaScript playground using functions, objects, arrays, loops and logic programming.
+- [Pixels Art](https://github.com/lorismilloni/study-project-pixels-art) A web page with a color palette to create drawings with pixels.
+- [Todo List](https://github.com/lorismilloni/study-project-todo-list) Create a to do list using JavaScript, HTML and CSS.
+- [TrybeWarts](https://github.com/lorismilloni/study-project-trybewarts) A web page with a feedback form made with JavaScript and HTML.
+- [JS Unit Tests](https://github.com/lorismilloni/study-project-js-unit-tests) Write unit tests using Jest, and JavaScript functions.
+- [Zoo Functions](https://github.com/lorismilloni/study-project-zoo-functions) Learning ES6 new features and how to use High Order Functions.
+- [Shopping Cart](https://github.com/lorismilloni/study-project-shopping-cart) A dynamic shopping cart with API requests.
+> Front-end
+- [Solar System](https://github.com/lorismilloni/studies-frontend-solar-system) A solar system to visualize the planets, using React.
+- [Super Trunfo](https://github.com/lorismilloni/studies-frontend-super-trunfo) A card game made with React that you can add and remove cards and view them.
+- [Song Tunes](https://github.com/lorismilloni/studies-frontend-song-tunes) A web application to listen to music requested from iTunes API using React Components.
+- [React Testing Library](https://github.com/lorismilloni/studies-frontend-react-testing-library) Write tests for a React App.
+- [Expense Wallet](https://github.com/lorismilloni/studies-frontend-expense-wallet) An expense wallet with currency conversion with Redux and React.
+- [Filter Planets](https://github.com/lorismilloni/studies-frontend-filter-planets) A list with dynamic filters created using Context API and React Hooks to control the global state.
+> Back-end
+- [Docker Container](https://github.com/lorismilloni/studies-backend-docker-container) Using docker commands to create containers for front, back-end and tests with Docker compose.
+- [mySQL](https://github.com/lorismilloni/studies-backend-mySQL) Using Northwind database to learn mySQL queries.
+- [mySQL 3NF](https://github.com/lorismilloni/studies-backend-mySQL-3NF) Here a used the third normal form to normalize a table and avoid the duplication of data.
