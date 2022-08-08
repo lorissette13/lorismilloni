@@ -32,8 +32,7 @@
 ### What I'll learn next
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width='40'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='35'/>
 #### Current works
-* I'm currently working on building :bricks: **web sites using JavaScript and React** and working up on polishing my skills 🌱 in **Refactoring**.
-* Getting started with Node.js!
+* I'm currently working on learning :bricks: **TypeScript** and working up on polishing my skills 🌱 in **building REST APIs**.
 #### :zap: Quick Facts
 * I've started learning programming skills to have a Raspberry Pi with of old games, but I've never bought one
 * I'm licentiated in Portuguese Literature, but last year, one day after my graduation, I thought there was still time to pursuit a career in coding
@@ -41,8 +40,6 @@
 * Very determinated, I started making a career change from Literature to Code and then I got into Trybe (a school of web development)
 * In Trybe I started developing web sites and then I finally understood what I was doing
 * I have used Linux as main system my whole life, and I look for an open source future
-* Soon as I finish Trybe in october, I'll dive deep into Ruby, the language designed for programmer happiness, said The Odin Project
-* And now that I know what I'm doing I want to try Python again
 
 ---
 
