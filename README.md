@@ -18,24 +18,23 @@
   city: "Palmas - TO, Brazil",
   ambitions: {
                 career: ["to find a job where I can always learn new things", "get more women into coding"],
-                personal: ["learn german", "time to play videogames again", "travel to taking photos"]
+                personal: ["learn french", "time to play videogames again", "travel to taking photos"]
               },
-  hobbies: ["reading", "watch movies", "writing", "analogue photography", "swimming"],
+  hobbies: ["reading", "writing", "analogue photography", "swimming"],
 }
 ```
-### Programming languages
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' width='35' />
+### Languages
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' width='35'/>
 ### Technologies I use
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg' width='35'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width='35'/>
 ### What I'm currently learning
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg' width='35'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='35'/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg' width='35'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='35'/>
 ### What I'll learn next
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width='40'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='35'/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg' width='35'/>
 #### Current works
-* I'm currently working on learning :bricks: **TypeScript** and working up on polishing my skills 🌱 in **building REST APIs**.
+* I'm currently working on learning to :bricks: use **OOP** to build a CRUD API to manage a car shop :car:.
 #### :zap: Quick Facts
-* I've started learning programming skills to have a Raspberry Pi with of old games, but I've never bought one
-* I'm licentiated in Portuguese Literature, but last year, one day after my graduation, I thought there was still time to pursuit a career in coding
+* I'm licentiated in Portuguese Literature, but last year, one day after my graduation, I thought there was still time to pursuit a career in tech
 * I bought a book and started learning Python, with little success
 * Very determinated, I started making a career change from Literature to Code and then I got into Trybe (a school of web development)
 * In Trybe I started developing web sites and then I finally understood what I was doing
