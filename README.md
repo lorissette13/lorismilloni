@@ -32,7 +32,7 @@
 ### What I'll learn next
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg' width='35'/>
 #### Current works
-* I'm currently working on learning to :bricks: use **OOP** to build a **CRUD API** to manage a car shop :car:.
+* I'm currently working on learning to :bricks: use **OOP** to build a **CRUD** for **REST API** to manage a car shop :car:.
 #### :zap: Quick Facts
 * I'm licentiated in Portuguese Literature, but last year, one day after my graduation, I thought there was still time to pursuit a career in tech
 * I bought a book and started learning Python, with little success
