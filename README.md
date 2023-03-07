@@ -1,4 +1,4 @@
-## Hey, I'm Loris Milloni :alien:
+## Hey, I'm Loris Simon :alien:
 ## I'm a web developer
 ## This place is a mess! I'm building my portfolio, while I don't finish, feel free to browse here or ask me any questions
 
