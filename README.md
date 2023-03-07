@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-lorismilloni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorismilloni)](https://www.linkedin.com/in/lorismilloni) [![Protonmail](https://img.shields.io/badge/lorismsimon@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:lorismsimon@proton.me)](mailto:lorismsimon@proton.me)
 
-## This place is a mess! I'm building my portfolio, while I don't finish, feel free to browse here or ask me any questions :brick:
+## This place is a mess! I'm building my portfolio, while I don't finish, feel free to browse here or ask me any questions 🧱🧱🧱🧱
 
 ### Who am I?
  ```javascript
