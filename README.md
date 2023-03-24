@@ -11,7 +11,7 @@
  ```javascript
  const loris = {
   pronouns: "she" | "her",
-  currentEducation: "Trybe",
+  currentEducation: "Unitins",
   city: "Palmas - TO, Brazil",
   ambitions: {
                 career: ["to find a job where I can always learn new things", "get more women into coding"],
