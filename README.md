@@ -1,4 +1,4 @@
-![image](https://github.com/lorismilloni/lorismilloni/assets/48132382/ab3adf64-7b5e-490c-a298-f577534e02f6)
+![image](https://github.com/lorismilloni/lorismilloni/assets/48132382/2b8165cf-9381-4ae0-961c-50733bf0e418)
 
 ## Hey, I'm Loris Milloni and I'm a web developer
 
