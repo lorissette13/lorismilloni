@@ -1,3 +1,5 @@
+![image](https://github.com/lorismilloni/lorismilloni/assets/48132382/ab3adf64-7b5e-490c-a298-f577534e02f6)
+
 ## Hey, I'm Loris Milloni and I'm a web developer
 
 ### Welcome to my ~humilde residência~ humble abode in the digital world! 
