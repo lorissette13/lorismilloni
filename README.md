@@ -1,5 +1,4 @@
-## Hey, I'm Loris Simon :alien:
-## I'm a web developer
+## Hey, I'm Loris Milloni and I'm a web developer
 
 ### Welcome to my ~humilde residência~ humble abode in the digital world! 
 
@@ -15,7 +14,7 @@
                 career: ["to find a job where I can always learn new things", "get more women into coding"],
                 personal: ["time to play videogames again", "travel to taking photos"]
               },
-  hobbies: ["reading", "writing", "analogue photography", "swimming"],
+  hobbies: ["analogue photography", "swimming"],
 }
 ```
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg' width='35'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='35'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width='35'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='35'/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg' width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg' width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg' width='50'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width='50'/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' width='50'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width='50'/>
