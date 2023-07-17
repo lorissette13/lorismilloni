@@ -4,7 +4,7 @@
 
 ### Welcome to my ~humilde residência~ humble abode in the digital world! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-lorismilloni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorismilloni)](https://www.linkedin.com/in/lorismilloni) [![Protonmail](https://img.shields.io/badge/lorismsimon@proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:lorismsimon@proton.me)](mailto:lorismsimon@proton.me)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorismilloni)](https://www.linkedin.com/in/lorismilloni) [![Protonmail](https://img.shields.io/badge/PROTONMAIL-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:lorismsimon@proton.me)](mailto:lorismsimon@proton.me) [![Github Pages](https://img.shields.io/badge/PAGES-121013?flat-square&logo=github&logoColor=white&link=https://lorismilloni.github.io/)](https://lorismilloni.github.io/)
 
 ### Who am I?
  ```javascript
